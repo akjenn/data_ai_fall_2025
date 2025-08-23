@@ -53,7 +53,7 @@ Thanks for taking the time to complete this task — we're excited to see what y
 
 Before submitting, make sure you have:
 
-- [x ] Completed the video tutorial series
+- [ ] Completed the video tutorial series
 - [ ] Created a functional dashboard with data cleaning
 - [ ] Used basic formulas (`SUM`, `AVERAGE`, `COUNT`)
 - [ ] Included simple charts or visualizations
